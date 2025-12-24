@@ -3,7 +3,8 @@
 A high-performance, resource-efficient terminal dashboard for monitoring Xandeum pNodes. Built in Rust for zero-overhead observability.
 
 ## 📸 Demo
-> *[Insert your screenshot or video link here]*
+>![Xandeum Monitor Demo](screenshot.png)
+
 
 ## 🚀 Features
 - **Real-time Latency Tracking:** Visualizes pNode network jitter.
